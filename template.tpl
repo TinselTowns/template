@@ -1,1 +1,0 @@
-{{ .readFile "flag.txt" }}
